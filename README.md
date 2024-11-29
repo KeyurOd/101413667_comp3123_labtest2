@@ -2,7 +2,7 @@ This Weather App is a React application that provides the current weather and a 
 
 Screenshots of outputs:- 
 
-! [Screenshot1](assets/ss-1.png)
-! [Screenshot2](assets/ss-2.png)
-! [Screenshot3](assets/ss-3.png)
-! [Screenshot4](assets/ss-4.png)
+![Screenshot1](assets/ss-1.png)
+![Screenshot2](assets/ss-2.png)
+![Screenshot3](assets/ss-3.png)
+![Screenshot4](assets/ss-4.png)
